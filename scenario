@@ -1,0 +1,10 @@
+	//open browser : chrome , url
+	//driver , config
+	// username
+	//password
+	//click login button
+	//close the browser
+	
+	//feature file : feature , scenario, scenario outline
+	//runner
+	//testcase
